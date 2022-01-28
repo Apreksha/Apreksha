@@ -1,8 +1,8 @@
-<img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg">
+<img align="center" alt="Coding" width="1000" src="https://quotefancy.com/media/wallpaper/3840x2160/2189476-Steve-McConnell-Quote-Good-code-is-its-own-best-documentation.jpg">
 <h1 align="center">Hi 👋, I'm Apreksha Mathur</h1>
 <h3 align="center">A passionate learner</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav2001&label=Profile%20views&color=0e75b6&style=flat" alt="arnav2001" /> </p>
-<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif?cid=ecf05e47oh74nk11e5rn4yqii3m688ldu9k79l0zocu05jvx&rid=giphy.gif&ct=g">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apreksha&label=Profile%20views&color=0e75b6&style=flat" alt="apreksha" /> </p>
+<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47p7mj9h7j8gvv6ebjef2ywd7dlyf4nfepr2fczll7&rid=giphy.gif&ct=g">
 <p>⚡ I have completed working on <a href="https://play.google.com/store/apps/details?id=com.me.code_world&hl=en&gl=US"> Code World - Learn C Programming</a></p>
 <p>🌱 I’m currently learning Machine Learning.</p>
 🖖 I’m looking to collaborate on Open-Source Projects.
