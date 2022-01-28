@@ -1,8 +1,8 @@
 <img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg">
-<h1 align="center">Hi 👋, I'm Arnav Kulshrestha</h1>
+<h1 align="center">Hi 👋, I'm Apreksha Mathur</h1>
 <h3 align="center">A passionate learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav2001&label=Profile%20views&color=0e75b6&style=flat" alt="arnav2001" /> </p>
-<img align="right" alt="Coding" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoder&psig=AOvVaw02fZHuuKprmpnWe0rW4GnF&ust=1643443618023000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKinxdr-0_UCFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif?cid=ecf05e47oh74nk11e5rn4yqii3m688ldu9k79l0zocu05jvx&rid=giphy.gif&ct=g">
 <p>⚡ I have completed working on <a href="https://play.google.com/store/apps/details?id=com.me.code_world&hl=en&gl=US"> Code World - Learn C Programming</a></p>
 <p>🌱 I’m currently learning Machine Learning.</p>
 🖖 I’m looking to collaborate on Open-Source Projects.
