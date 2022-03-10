@@ -3,7 +3,7 @@
 <h3 align="center">A passionate learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apreksha&label=Profile%20views&color=0e75b6&style=flat" alt="apreksha" /> </p>
 <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47p7mj9h7j8gvv6ebjef2ywd7dlyf4nfepr2fczll7&rid=giphy.gif&ct=g">
-<p>⚡ I have completed working on <a href="https://play.google.com/store/apps/details?id=com.apreksha.dbms> DBMS Point</a></p>
+<p>⚡ I have completed working on <a href="https://play.google.com/store/apps/details?id=com.apreksha.dbms"> DBMS Point</a></p>
 🖖 I’m looking to collaborate on Open-Source Projects.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
